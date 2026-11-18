@@ -1,0 +1,13 @@
+# Let Git pick line endings for text files.
+* text=auto
+
+# Shell script: always LF, so it runs on macOS and Linux (and in Git Bash on Windows).
+gradlew text eol=lf
+
+# Windows batch scripts: always CRLF.
+*.bat text eol=crlf
+
+# Binary files: never touch.
+*.jar binary
+*.png binary
+*.webp binary

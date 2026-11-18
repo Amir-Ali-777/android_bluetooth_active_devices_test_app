@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bluetooth TestApp</string>
+    <string name="screen_title">Bluetooth\nAudio Manager</string>
+    <string name="app_info">App info</string>
+    <string name="connected_devices">Connected Devices (%1$d)</string>
+    <string name="host_device">Host Device</string>
+    <string name="audio_connected">Audio Connected</string>
+    <string name="call">Call</string>
+    <string name="media">Media</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="status_not_supported">Not supported</string>
+    <string name="audio_controls">Audio Controls</string>
+    <string name="start_sco">Start SCO</string>
+    <string name="stop_sco">Stop SCO</string>
+    <string name="play_recording">Play Recording</string>
+    <string name="active_communication_device">Active communication device</string>
+    <string name="link_host">Built-in earpiece and speaker</string>
+    <string name="link_classic">Bluetooth Classic (HFP)</string>
+    <string name="link_le_audio">Bluetooth LE Audio</string>
+    <string name="link_wired">Wired (3.5 mm jack)</string>
+    <string name="link_usb">Wired (USB)</string>
+    <string name="microphone">Microphone: %1$s</string>
+    <string name="microphone_built_in">Microphone: built-in</string>
+    <string name="unknown_headset">Unknown Bluetooth headset</string>
+    <string name="wired_headset">Wired headset</string>
+    <string name="wired_headphones">Wired headphones</string>
+    <string name="usb_audio_device">USB audio device</string>
+    <string name="wired_with_mic">Wired, with mic</string>
+    <string name="wired_no_mic">Wired, no mic</string>
+</resources>
